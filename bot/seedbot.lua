@@ -230,7 +230,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
-sudo_users={78995282},--Sudo users
+sudo_users={78995282,141987705,2275668777,227566877},--Sudo users
 
 https://github.com/SEEDTEAM/TeleSeed
 
